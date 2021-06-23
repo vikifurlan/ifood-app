@@ -11,6 +11,7 @@ const Body = () => {
         </div>
         <div className="mer_div">
           <img src="https://static-images.ifood.com.br/image/upload/t_low/discoveries/Mercado-nov_20.jpg" />
+          
           <p>Mercado</p>
         </div>
         <div className="mer_div">
